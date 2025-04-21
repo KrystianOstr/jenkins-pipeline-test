@@ -15,7 +15,7 @@ pipeline {
         
         stage('Build') {
             steps {
-                echo "sh buduje z repo"
+                echo "test webhooook"
             }
         }
     }
